@@ -139,7 +139,7 @@ The Power BI dashboard presents all key insights visually across multiple pages:
 
 > 📸 Dashboard preview:
 
-![Dashboard Preview](powerbi/dashboard_preview.png)
+![Dashboard Preview](https://github.com/abhinav1028-bit/MYNTRA-PRODUCT-PRICING-MARKET-ANALYSIS/blob/main/Power%20BI/Myntra_Dashboard%20.png)
 
 ---
 
